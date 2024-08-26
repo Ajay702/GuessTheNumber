@@ -37,6 +37,11 @@ The `GuessTheNumber` smart contract is a fun game where players try to guess a s
 3. **Guess the Number**: Players try to guess the secret number. The first person to guess correctly wins the prize pool.
 4. **Reset the Game**: The owner can start a new game with a new secret number at any time.
 
+
+## Authors
+
+Ajay Raghav
+
 ## License
 
 This project is licensed under the MIT License.
